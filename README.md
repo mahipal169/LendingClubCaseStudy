@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Lending Club Case Study.
 
 
 ## Table of Contents
@@ -11,10 +11,8 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- 
+Lending Club (LC) stands as the globe's largest peer-to-peer lending firm, based in San Francisco, California. It made history by becoming the inaugural peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), thereby pioneering loan trading on a secondary market.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
